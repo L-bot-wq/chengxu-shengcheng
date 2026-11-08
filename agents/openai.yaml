@@ -1,4 +1,4 @@
 interface:
   display_name: "通用桌面应用工坊"
-  short_description: "从需求到设计、开发、验证、打包和安全更新桌面应用"
-  default_prompt: "使用 $desktop-app-builder 为我设计并完成可实际使用的桌面程序。"
+  short_description: "根据实际需求设计、开发、验证、打包并安全更新可用的桌面程序"
+  default_prompt: "使用 $desktop-app-builder 帮我制作桌面程序。\n\n软件用途：\n主要功能：\n使用设备：Windows 电脑\n界面和图标要求：\n数据保存或手机使用需求：\n\n请完成方案设计、开发、验证和交付。关键需求不明确时先问我，其余细节自行处理；明确告诉我实际测试结果和使用方法。"
