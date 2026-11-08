@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用桌面应用工坊"
+  short_description: "从需求到设计、开发、验证、打包和安全更新桌面应用"
+  default_prompt: "使用 $desktop-app-builder 为我设计并完成可实际使用的桌面程序。"
